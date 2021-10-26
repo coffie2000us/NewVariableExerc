@@ -1,0 +1,14 @@
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\bin\Debug\netcoreapp3.1\VariablesExercise2.exe
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\bin\Debug\netcoreapp3.1\VariablesExercise2.deps.json
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\bin\Debug\netcoreapp3.1\VariablesExercise2.runtimeconfig.json
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\bin\Debug\netcoreapp3.1\VariablesExercise2.runtimeconfig.dev.json
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\bin\Debug\netcoreapp3.1\VariablesExercise2.dll
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\bin\Debug\netcoreapp3.1\VariablesExercise2.pdb
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.AssemblyInfo.cs
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.dll
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.pdb
+C:\Users\charl\Desktop\2nd Repos\VariablesExercise2\VariablesExercise2\obj\Debug\netcoreapp3.1\VariablesExercise2.genruntimeconfig.cache
